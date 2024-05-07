@@ -21,6 +21,10 @@ Siga as instruções exibidas no menu para selecionar uma opção.
 ![Captura de tela 2024-05-07 174713](https://github.com/Tailany24/ConversorDeMoedas/assets/139998931/809b9d0d-4f36-448f-af05-96ae7eba5984)
 
 
+
+
+
+
 Insira o valor a ser convertido quando solicitado.
 O programa fornecerá o valor convertido com base na taxa de câmbio atual.
 
@@ -47,3 +51,6 @@ Biblioteca HttpClient para fazer requisições HTTP
 Este é um projeto simples para demonstrar a implementação básica de um conversor de moedas em Java.
 A API de taxas de câmbio usada neste projeto pode exigir uma chave de API para acesso. Certifique-se de ter uma chave de API válida e substitua-a conforme necessário no código.
 Este programa pode ser estendido e aprimorado com recursos adicionais, como tratamento de erros mais robusto, suporte a mais moedas, interface gráfica de usuário (GUI), etc.
+
+
+![Badge-Conversor](https://github.com/Tailany24/ConversorDeMoedas/assets/139998931/638fe220-3f86-4d04-8632-70458c64fb03)
